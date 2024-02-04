@@ -1,5 +1,5 @@
 async function getUser(place) {
-    const api_url = `https://timezone.abstractapi.com/v1/current_time/?api_key=ff61298d50c843fd99f9c4520fc06c2a&location=${place}`
+    const api_url = `https://timezone.abstractapi.com/v1/current_time/?api_key=YOUR-API-KEY&location=${place}`
     
     const response = await fetch(api_url);
     
@@ -45,7 +45,7 @@ e.addEventListener("click",function(){
 //-------------------------------------------------------------------------------------------------------------
 
 async function getUser(place) {
-    const api_url = `https://timezone.abstractapi.com/v1/current_time/?api_key=ff61298d50c843fd99f9c4520fc06c2a&location=${place}`
+    const api_url = `https://timezone.abstractapi.com/v1/current_time/?api_key=YOUR-API-KEY&location=${place}`
     
     const response = await fetch(api_url);
     
