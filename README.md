@@ -1,4 +1,4 @@
-#World-Map-Clock
+# World-Map-Clock
 
 I made this project using HTML, Bootstrap CSS and JavaScript. It tells the Time and Date when clicked on a country in the Map.
 
