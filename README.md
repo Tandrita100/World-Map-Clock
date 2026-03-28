@@ -1,8 +1,27 @@
-# World-Map-Clock
+🌍 World Map Clock
 
-I made this project using HTML, Bootstrap CSS and JavaScript. It tells the Time and Date when clicked on a country in the Map.
+A simple web application that shows the current time and date when you click on a country on the map.
 
-The World Map that is used here is a SVG Map.
+🚀 Features
+- Click on a country to see its time
+- Displays current time and date
+- Interactive SVG world map
+- Clean and responsive design
 
-To get the correct Time and Date for every country i used an API from Abstract api (https://www.abstractapi.com/).
-Time api (https://www.abstractapi.com/api/time-date-timezone-api).
+🛠️ Tech Stack
+- HTML
+- Bootstrap
+- JavaScript
+  
+🔗 API Used
+Abstract Time API
+https://www.abstractapi.com/api/time-date-timezone-api
+
+⚙️ How It Works
+
+1) Click on any country on the map
+2) The app sends a request to the API
+3) Time and date are shown instantly
+
+📌 Note
+Add your API key in the JavaScript file before running the project.
